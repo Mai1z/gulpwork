@@ -1,2 +1,5 @@
-# gulpwork
-My gulp 4 work version 
+# Project template for gulp.js
+## Инструкция:
+  * Скачать всё в отдельную папку
+  * Установка: npm i
+  * Запуск: gulp (откроется сервер localhost:3000)
